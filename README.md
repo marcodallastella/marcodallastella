@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there, I'm Marco 👋
 
-<!--
-**marcodallastella/marcodallastella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🕵‍♂ I am a data and investigative journalist.
 
-Here are some ideas to get you started:
+🌎 I'm Italian, but I've lived and worked in six continents across four continents. I speak five languages!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning JavaScript and D3 for data visualization.
+
+🎶 Jazz for scraping, baroque guitar for cleaning.
+
+⭐ Check out my [project on prison overcrowding in Italy](https://marcodallastella.github.io/schiacciati/) where I built an entire webpage with plots in D3 and a Mapbox map that updates automatically once a month  with the most recent data available, scraped from the not-so-ready to use website of the Ministry of Justice.
+
+
+📩 You can reach me on:
+
+<a href="mailto:md3934@columbia.edu?subject=[GitHub]%20🔥%20Reaching%20out&body=Hi%Marco%2C%0A%0AI%20saw%20your%20GitHub%20profile%20and%20I%20am%20reaching%20out%20to%20..."><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a> &nbsp;&nbsp; <a href="https://www.linkedin.com/in/dallastellamarco/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> &nbsp;&nbsp;
+
