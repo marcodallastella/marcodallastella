@@ -4,9 +4,9 @@
 
 🌎 I'm Italian, but I've lived and worked in six continents across four continents. I speak five languages!
 
-🌱 I’m currently learning JavaScript and D3 for data visualization.
+🌱 Currently learning JavaScript and D3 for data visualization. And then HTML, CSS, Python, SQLite, R, etc. etc.
 
-🎶 Jazz for scraping, baroque guitar for cleaning.
+🎶 Goldie for scraping, Brian Eno for cleaning, Daft Punk for visualization.
 
 ⭐ Check out my [project on prison overcrowding in Italy](https://marcodallastella.github.io/schiacciati/) where I built an entire webpage with plots in D3 and a Mapbox map that updates automatically once a month  with the most recent data available, scraped from the not-so-ready to use website of the Ministry of Justice.
 
