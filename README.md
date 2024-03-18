@@ -8,7 +8,7 @@
 
 🎶 Goldie for scraping, Brian Eno for cleaning, Daft Punk for visualization.
 
-⭐ Check out my [project on prison overcrowding in Italy](https://marcodallastella.github.io/schiacciati/) where I built an entire webpage with plots in D3 and a Mapbox map that updates automatically once a month  with the most recent data available, scraped from the not-so-ready to use website of the Ministry of Justice.
+⭐ Check out my [project on prison overcrowding in Italy](https://marcodallastella.github.io/prison_overcrowding/) where I built an entire webpage with plots in D3 and lots of numbers that updates automatically once a month with the most recent data available, scraped from the not-so-ready to use website of the Ministry of Justice.
 
 
 📩 You can reach me on:
