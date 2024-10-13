@@ -1,15 +1,4 @@
-### Hi there, I'm Marco 👋
-
-🕵‍♂ I am a data and investigative journalist.
-
-🌎 I'm Italian, but I've lived and worked in six continents across four continents. I speak five languages!
-
-🌱 Currently learning JavaScript and D3 for data visualization. And then HTML, CSS, Python, SQLite, R, etc. etc.
-
-🎶 Goldie for scraping, Brian Eno for cleaning, Daft Punk for visualization.
-
-⭐ Check out my [project on prison overcrowding in Italy](https://github.com/marcodallastella/prison_overcrowding) where I built an entire webpage with plots in D3 and lots of numbers that updates automatically once a month with the most recent data available, scraped from the not-so-ready to use website of the Ministry of Justice.
-
+Italian journalist, now based in Brooklyn. Here mostly for scraping.
 
 📩 You can reach me on:
 
